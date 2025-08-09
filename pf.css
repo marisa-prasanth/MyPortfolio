@@ -95,6 +95,9 @@ header {
 .para{
     padding: 20px;
 }
+.skills{
+    padding-left: 3%;
+}
 
 
 
@@ -170,4 +173,5 @@ header {
             #hero h2 {
                 font-size: 2rem;
             }
+
         }
